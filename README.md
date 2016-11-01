@@ -1,6 +1,6 @@
 # WEB8.0
 
-WEB8.0 is focused on mobile  or  WALLET cloud computing.
+WEB8.0 is focused on mobile  or  WALLET remotewebapplication
 
 
 WEb8.0 is programming language  focused for  WRIT  Professionals and it is invented by wilmix jemin j in JAS at 2015 .
@@ -18,7 +18,7 @@ Advantages:
 => Fast and easy to use. 
 
 
-=> Used in cloud computing , Wallet ,and mobile cloud computing....
+=> Used in  Wallet ,and mobile remotewebapplication....
 
  => Saves time and cost...
 
